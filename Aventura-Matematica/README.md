@@ -1,11 +1,11 @@
 # 🎮 Math Hunt: Caza Matemática
 
-## 📖 Descripción
+## Descripción
 **Math Hunt: Caza Matemática** es un videojuego educativo diseñado para ayudar a estudiantes de primer año de secundaria a practicar operaciones aritméticas mediante una experiencia interactiva y entretenida de puntería.
 El jugador toma el rol de un explorador en una cacería ambientada en un entorno natural. Para avanzar por los diferentes desafíos, debe localizar y acertar a un ave que se desplaza por el escenario. Tras acertar al objetivo, se desbloquea una operación matemática que deberá resolver correctamente para sumar puntos y completar la aventura.
 El proyecto combina la mecánica clásica de puntería con actividades educativas dinámicas para potenciar el aprendizaje de la matemática.
 
-## 🎯 Objetivo del jugador
+##  Objetivo del jugador
 El objetivo principal es completar las 10 rondas del juego, acertar a los objetivos en movimiento y resolver correctamente las operaciones aritméticas propuestas para obtener una puntuación máxima de 10 puntos.
 
 ### Objetivos específicos
@@ -16,7 +16,7 @@ El objetivo principal es completar las 10 rondas del juego, acertar a los objeti
 * Completar las 10 rondas y obtener la mejor calificación de desempeño posible.
 
 
-## 🎮 Mecánica principal
+##  Mecánica principal
 La mecánica principal del videojuego combina la puntería interactiva con la resolución de problemas educativos:
 
 1. **Fase de Caza:** En cada ronda aparece un ave en una posición aleatoria moviéndose por la pantalla. El jugador mueve el cursor (transformado en mira) y hace clic sobre el ave.
@@ -29,7 +29,7 @@ El videojuego busca combinar:
 * Progresión por rondas y velocidades.
 * Recompensas y retroalimentación inmediata.
 
-## 🕹️ Género
+##  Género
 **Educational / Target Shooter / Quiz / Platformer-Inspired**  
 El proyecto fusiona elementos de juegos clásicos de tiro al blanco con dinámicas educativas de preguntas, respuestas y retroalimentación directa.
 
@@ -42,10 +42,10 @@ Elemento   Acción                 Función
 **CLICK IZQUIERDO**    Disparar/acertar al ave y seleccionar las alternativas de respuesta. 
 **PANTALLA / BOTONES** Interactuar con los controles de la interfaz (*Comenzar Aventura*, *Siguiente Ronda*, *Jugar de Nuevo*). 
 
-> ⚠️ *Los controles están adaptados para funcionar en computadoras, laptops y tablets mediante interfaz táctil o cursor.*
+>  *Los controles están adaptados para funcionar en computadoras, laptops y tablets mediante interfaz táctil o cursor.*
 
 
-## 💻 Tecnologías utilizadas
+##  Tecnologías utilizadas
 El videojuego fue desarrollado utilizando exclusivamente tecnologías web estándar (sin librerías ni servidores externos):
 
 * **HTML5:** Estructura semántica del juego y contenedores de la interfaz.
@@ -55,27 +55,27 @@ El videojuego fue desarrollado utilizando exclusivamente tecnologías web están
 * **Git & GitHub / GitHub Pages:** Control de versiones y publicación en web.
 
 
-## 🖼️ Capturas de pantalla
+##  Capturas de pantalla
 
-### 🏠 Pantalla inicial
+###  Pantalla inicial
 *(Espacio reservado para la captura de la pantalla principal con el título "MATH HUNT: CAZA MATEMÁTICA", las instrucciones de juego y el botón COMENZAR AVENTURA)*
 
 ![Pantalla inicial](images/inicio.PNG)
 
 
-### 🎮 Gameplay (Fase de Caza y Desafío Matemático)
+###  Gameplay (Fase de Caza y Desafío Matemático)
 *(Espacio reservado para las capturas del escenario natural con el ave en movimiento y la ventana pop-up con la operación matemática y sus 4 alternativas)*
 
 
 ![Gameplay](images/gameplay.PNG)
 
-### 🏆 Resultado
+###  Resultado
 *(Espacio reservado para la captura de la pantalla final con la puntuación acumulada sobre 10, el mensaje de desempeño y el botón JUGAR DE NUEVO)*
 
 
 ![Resultado del juego](images/resultado.PNG)
 
-## 🌐 Jugar
+##  Jugar
 🎮 **Jugar Math Hunt: Caza Matemática**  
 ▶️ **[JUGAR AHORA](https://ludcuba2019-boop.github.io/game-development-portfolio/Aventura-Matematica/)** *(Enlace configurable a GitHub Pages)*
 
@@ -95,7 +95,7 @@ La inteligencia artificial fue utilizada para:
 *(El código generado fue validado y probado manualmente para comprobar el cumplimiento de todos los requisitos).*
 
 
-## 📚 Lo que aprendí
+##  Lo que aprendí
 Durante el desarrollo de este proyecto se consolidaron los siguientes aprendizajes:
 
 * A analizar problemas educativos y transformar requisitos de clientes en mecánicas de videojuego.
@@ -106,7 +106,7 @@ Durante el desarrollo de este proyecto se consolidaron los siguientes aprendizaj
 * A crear y estructurar documentación técnica y profesional de proyectos de desarrollo de videojuegos.
 
 
-## 🚀 Mejoras futuras
+##  Mejoras futuras
 Para futuras iteraciones del prototipo se tienen contempladas las siguientes mejoras:
 
 * **Variedad de Objetivos:** Incluir diferentes tipos de aves con comportamientos y trayectorias impredecibles.
@@ -117,19 +117,15 @@ Para futuras iteraciones del prototipo se tienen contempladas las siguientes mej
 * **Tabla de Clasificación (Leaderboard):** Guardado local de las mejores marcas de los estudiantes.
 
 
-## 👨‍💻 Autor
+##  Autor
 **Ludwing Leonel Cuba Condori**  
 *Estudiante de Game Development.*  
 Este proyecto fue desarrollado como parte de las actividades prácticas de la asignatura *Game Development*.
 
 
-## 🎓 Contexto académico
+##  Contexto académico
 * **Asignatura:** Game Development  
 * **Unidad:** Introducción al desarrollo de videojuegos  
 * **Proyecto:** Math Hunt: Caza Matemática  
 * **Tipo:** Prototipo de videojuego educativo asistido por IA  
 
-
-## 📌 Estado del proyecto
-🟢 **Prototipo funcional (V3 Final)**  
-El proyecto cumple con los 15 requisitos funcionales, de contenido, visuales y técnicos especificados en la guía de práctica.
