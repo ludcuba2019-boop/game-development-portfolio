@@ -77,7 +77,7 @@ El videojuego fue desarrollado utilizando exclusivamente tecnologías web están
 
 ## 🌐 Jugar
 🎮 **Jugar Math Hunt: Caza Matemática**  
-▶️ **[JUGAR AHORA](https://github.com/)** *(Enlace configurable a GitHub Pages)*
+▶️ **[JUGAR AHORA](https://ludcuba2019-boop.github.io/game-development-portfolio/Aventura-Matematica/)** *(Enlace configurable a GitHub Pages)*
 
 El videojuego puede ejecutarse directamente abriendo el archivo `index.html` en cualquier navegador web moderno sin necesidad de instalar programas adicionales.
 
