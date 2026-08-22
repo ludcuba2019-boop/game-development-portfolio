@@ -67,7 +67,7 @@ El proyecto se enmarca en el género arcade de recolección en tiempo real con e
 
 ## Jugar
 🎮 **Jugar Gota a Gota el Agua se Agota**  
-▶️ **[JUGAR AHORA](https://ludcuba2019-boop.github.io/game-development-portfolio/Gota-A-Gota/)** *(Enlace configurable a GitHub Pages)*
+▶️ **[JUGAR AHORA](https://ludcuba2019-boop.github.io/game-development-portfolio/Gota%20a%20Gota%20el%20Agua%20se%20Agota/)** *(Enlace configurable a GitHub Pages)*
 
 Para jugar localmente, clona el repositorio o descarga el proyecto y abre el archivo `index.html` en cualquier navegador web moderno.
 
