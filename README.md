@@ -1,4 +1,12 @@
-# 🎮 Game Development Portfolio
+<p align="center">
+  <img src="assets/images/banner.png" alt="Game Development Portfolio" width="100%">
+</p>
+
+<h1 align="center">🎮 Game Development Portfolio</h1>
+
+<p align="center">
+  <strong>Ludwing Leonel Cuba Condori</strong>
+</p>
 
 ![Game Development](https://img.shields.io/badge/Game%20Development-Portfolio-blue?style=for-the-badge)
 ![Videojuegos](https://img.shields.io/badge/Videojuegos-6-green?style=for-the-badge)
