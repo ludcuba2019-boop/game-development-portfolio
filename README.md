@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/banner.png" alt="Game Development Portfolio" width="100%">
+  <img src="assets/images/banner.PNG" alt="Game Development Portfolio" width="100%">
 </p>
 
 <h1 align="center">🎮 Game Development Portfolio</h1>
