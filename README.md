@@ -50,6 +50,10 @@ Cada proyecto busca abordar una temática diferente:
 
 ## 🎮 1. Aventura Matemática: El Reino de los Números
 
+<p align="center">
+  <img src="assets/images/aventura-matematica.PNG" alt="Aventura Matemática" width="80%">
+</p>
+
 ### 📖 Descripción
 
 Videojuego educativo de aventura y plataformas en el que el jugador debe superar diferentes desafíos matemáticos.
@@ -77,6 +81,10 @@ Resolver los desafíos matemáticos y completar la aventura.
 ---
 
 # ♻️ 2. Recycling Time 2.0 — Guardianes del Reciclaje
+
+<p align="center">
+  <img src="assets/images/recycling-time2.PNG" alt="Recycling Time 2.0" width="80%">
+</p>
 
 ### 📖 Descripción
 
@@ -107,6 +115,10 @@ Clasificar correctamente los residuos para obtener la mayor puntuación y reduci
 
 # 💰 3. Reto Financiero: Jóvenes al Control
 
+<p align="center">
+  <img src="assets/images/reto-financiero.PNG" alt="Reto Financiero" width="80%">
+</p>
+
 ### 📖 Descripción
 
 Videojuego educativo basado en situaciones financieras cotidianas.
@@ -134,6 +146,10 @@ Aprender a tomar decisiones financieras responsables mediante diferentes situaci
 ---
 
 # 💧 4. Gota a Gota el Agua se Agota
+
+<p align="center">
+  <img src="assets/images/gota-a-gota.PNG" alt="Gota a Gota el Agua se Agota" width="80%">
+</p>
 
 ### 📖 Descripción
 
@@ -163,6 +179,10 @@ Crear conciencia sobre el desperdicio del agua y promover hábitos responsables.
 
 # 🌎 5. ECONADO
 
+<p align="center">
+  <img src="assets/images/econado.PNG" alt="ECONADO" width="80%">
+</p>
+
 ### 📖 Descripción
 
 Videojuego educativo desarrollado alrededor de una temática de conciencia y educación ambiental.
@@ -190,6 +210,10 @@ Promover la conciencia ambiental mediante una experiencia de videojuego.
 ---
 
 # 🥦 6. NutriAventura
+
+<p align="center">
+  <img src="assets/images/nutriaventura.PNG" alt="NutriAventura" width="80%">
+</p>
 
 ### 📖 Descripción
 
